@@ -2,7 +2,7 @@
 
 ![Website Apis](https://telegra.ph/file/d89b695ae3901a0c46ab0.jpg)
 
-<details><summary><b> Pengertian Website </></summary> <br />
+<details><summary><b> Pengertian Website </b></summary> <br />
     <i>Website adalah sebuah ruangnya browser yang dicari banyak orang untuk menggunakan fungsi dari web tersebut </i>
    </details><br>
 </details>
@@ -16,6 +16,6 @@
 </details>
 
 <details><summary><b> Penting </b><summary> <br />
-    <b> REPOSITORY INI ASLI SAYA YANG BUAT BESERTA CODENYA JADI JIKA INGIN CLONE REPOSITORY INI JANGAN LUPA KASIH KREDIT </b>
+    <i> REPOSITORY INI ASLI SAYA YANG BUAT BESERTA CODENYA JADI JIKA INGIN CLONE REPOSITORY INI JANGAN LUPA KASIH KREDIT </i>
    </details><br>
 </details>

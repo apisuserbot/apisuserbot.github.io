@@ -10,7 +10,7 @@
 <details><summary><b> Website Apis </b></summary> <br />
     <i> Disini untuk datang mengunjungi Website Apis  </i>
     <p align="center">
-       <a href="https://apisuserbot.github.io//new?template=https%3A%2F%2Fgithub.com%2Fapisuserbot%2Fapisuerbot.github.io"><img src="https://img.shields.io/badge/Website_Apis-black?style=for-the-badge&logo=website.cd" alt="go_website" /></a>
+       <a href="https://apisuserbot.github.io/"><img src="https://img.shields.io/badge/Website%20Apis%3F-Klik-black?&style=flat-square?&logo=chrome" width=165px></a>
     </p>
   </details><br>
 </details>
